@@ -1,0 +1,2 @@
+# nrDksLSI
+基于深度学习resnet模型与ASPP模块的图像分类系统实现
